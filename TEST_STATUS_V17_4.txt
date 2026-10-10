@@ -1,0 +1,13 @@
+Alpha Radar V17.4 test report (local, offline)
+PASS compileall
+PASS test_v174_integrity.py
+PASS test_v17_3_mobile_board.py
+PASS test_v17_1_sync_briefing.py
+PASS test_full_qa_v16_7_2.py
+PASS test_v17_goal_complete.py
+PASS smoke_app_import.py
+PASS smoke_decision_views.py
+PASS smoke_all_views_v16_7_2.py
+PASS smoke_app_main.py
+PARTIAL run_full_qa.py: test_architecture.py + test_doctor_v16_7.py passed, run timed out during test_verified_price_v16_7_1.py (test environment limit). Other tests in run_full_qa.py not all run in one consecutive execution.
+NOT VERIFIED Streamlit Cloud deployment, live exchange market freshness, actual runtime/latency gain, walk-forward investment return.

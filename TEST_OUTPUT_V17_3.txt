@@ -1,0 +1,5 @@
+PASS Python compileall
+PASS smoke_app_import.py
+PASS smoke_decision_views.py
+PASS test_v17_3_mobile_board.py
+NOTE No live Streamlit Cloud / external market-provider E2E in this container.

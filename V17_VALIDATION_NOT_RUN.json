@@ -1,0 +1,5 @@
+{
+  "status": "NOT_RUN",
+  "reason": "RuntimeError: 股票母體不完整：上市 0 檔、上櫃 0 檔、合計 0 檔。為避免漏掉整個市場後仍產生推薦，本次更新已中止並保留上一份成功快照。 資料來源：no successful source",
+  "note": "No synthetic data was substituted. Real 2026 validation requires reachable historical market data or a populated validation_prices.sqlite cache."
+}
